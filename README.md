@@ -1,7 +1,7 @@
 # Hi there! I'm Shyam 👋
 
 ## 🚀 About Me
-I'm an **Engineering Student** with a strong interest in **Artificial Intelligence, Machine Learning, and Data Science**. I thrive on solving complex problems and building intelligent solutions. I am passionate about **Generative AI, LLMs, and Agentic AI**, and I actively explore cutting-edge advancements in these domains. My current focus includes:
+I'm an **Engineering Student** with a strong interest in **Artificial Intelligence**.I am passionate about **Generative AI and Agentic AI**, and I actively explore cutting-edge advancements in these domains. My current focus includes:
 - **Generative-AI** using orchestration framework like LangChain to make AI powered applicatiions and leveraging the power of LLM's.
 - **Agentic AI:** Experimenting with frameworks CrewAI to make powerful agents and muilti-agents.
 
