@@ -3,7 +3,7 @@
 ## 🚀 About Me
 Currently an **Engineering Student** with a strong interest in **Artificial Intelligence**.I am passionate about **Generative AI and Agentic AI**, and actively exploring cutting-edge advancements in these domains. My current focus includes:
 - **Generative-AI** using orchestration framework like LangChain to make AI powered applicatiions and leveraging the power of LLM's.
-- **Agentic AI:** Experimenting with frameworks CrewAI to make powerful agents and muilti-agents.
+- **Agentic AI:** Experimenting with frameworks like CrewAI to make powerful agents and muilti-agents.
 
 I love to stay ahead in the AI space by constantly learning and implementing new technologies. Whether it's through hands-on projects, research, or coding challenges, I strive to push my boundaries.
 
