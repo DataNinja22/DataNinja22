@@ -19,7 +19,7 @@ I love to stay ahead in the AI space by constantly learning and implementing new
 - **GeeksforGeeks:** https://www.geeksforgeeks.org/user/smt2208/
 
 ## 🔥 Currently Learning
-- **Agentic Frameworks** AutoGen, Phi-Data
+- **Agentic Frameworks** LangGraph, CrewAI
 - **Deep Learning** ANN,CNN,RNN,Transformers
 
 ## 📫 Let's Connect!
