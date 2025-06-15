@@ -11,7 +11,7 @@ I love to stay ahead in the AI space by constantly learning and implementing new
 - **Programming:** Python, Java, C
 - **AI:** Generative AI, Agentic AI
 - **Machine Learning:** Pandas, NumPy, Scikit-learn, Visualization Libraries
-- **Frameworks & Tools:** LangChain, CrewAI, Streamlit, Flask, FastAPI
+- **Frameworks & Tools:** LangChain,langGraph, CrewAI, Streamlit, Flask, FastAPI
 - **DSA:** Solving problems on Leetcode and GeeksforGeeks
 
 ## 💻 Problem Solving & Coding Challenges
