@@ -10,7 +10,7 @@ I love to stay ahead in the AI space by constantly learning and implementing new
 ## 💡 Skills & Tech Stack
 - **Programming:** Python, Java, C
 - **AI:** Generative AI, Agentic AI
-- **Machine Learning:** Pandas, NumPy, Scikit-learn, Visualization Libraries
+- **Machine Learning:** Pandas, NumPy, Scikit-learn, Visualization Libraries, Pytorch
 - **Frameworks & Tools:** LangChain,langGraph, CrewAI, Streamlit, Flask, FastAPI
 - **DSA:** Solving problems on Leetcode and GeeksforGeeks
 
